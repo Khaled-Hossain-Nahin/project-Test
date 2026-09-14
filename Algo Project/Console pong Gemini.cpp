@@ -53,11 +53,11 @@ struct GameSettings
 struct MatchStats
 {
     string winner;
-    int p1Score = 0, p2Score = 0;
-    int totalHits = 0, currentRally = 0, longestRally = 0;
-    int wallHits = 0, p1Goals = 0, p2Goals = 0;
-    int timePlayed = 0; // in seconds
-    int maxSpeedReached = 1;
+    int p1Score = 2, p2Score = 5;
+    int totalHits = 69, currentRally = 9, longestRally = 5;
+    int wallHits = 8, p1Goals = 3, p2Goals = 7;
+    int timePlayed = 9; // in seconds
+    int maxSpeedReached = 10;
 } stats;
 
 //======================== Global Variables ========================
