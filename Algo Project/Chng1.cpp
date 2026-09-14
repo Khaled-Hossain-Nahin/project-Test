@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <conio.h>
 #include <windows.h>
@@ -45,7 +44,7 @@ struct GameSettings
     int aiType = 1; // 1=Simple, 2=Predictive
     int aiReaction = 1;
     const char* paddle1Col = MAGENTA;
-    const char* paddle2Col = MAGENTA;
+    const char* paddle2Col = YELLOW;
     const char* ballCol =MAGENTA ;
     const char* borderCol = MAGENTA;
     char upKey = 'w', downKey = 's', p2UpKey = 'i', p2DownKey = 'k';
