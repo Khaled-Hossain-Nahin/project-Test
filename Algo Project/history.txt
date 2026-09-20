@@ -1,8 +1,0 @@
-[Thu Jul 23 21:02:09 2026] Noman | Score: 5-0 | Player 1 Won
-[Thu Jul 23 21:07:29 2026] Sagol_saba | Score: 0-1 | Player 2 Won
-[Thu Jul 23 21:17:05 2026] Joli | Score: 0-0 | Draw
-[Thu Jul 23 21:17:58 2026] Joli | Score: 0-0 | Draw
-[Thu Jul 23 21:18:38 2026] Joli | Score: 5-2 | Player 1 Won
-[Thu Jul 23 21:19:09 2026] Joli | Score: 4-0 | Player 1 Won
-[Thu Jul 23 21:20:36 2026] Joli | Score: 5-1 | Player 1 Won
-[Thu Jul 23 23:25:30 2026] lpsa | Score: 0-0 | Draw
